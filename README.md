@@ -1,6 +1,6 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-voronoi-treemap-themes/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-voronoi-treemap-themes/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/creating-application-themes/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/creating-application-themes/actions/workflows/publish.yml)
 
-learning-voronoi-treemap-themes
+creating-application-themes
 # Learning Voronoi Treemap - Themes
 
 Part of "Learning - Voronoi Treemap" at https://github.com/vanHeemstraSystems/learning-voronoi-treemap
