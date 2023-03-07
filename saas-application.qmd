@@ -8,7 +8,7 @@ We base our Theme: Master FoamTree on Planning a [Minimum Viable Nothing (MVN)](
 
 ## 2. Find the **Opportunities**.
 
-See [Creating - saaS Application](https://vanheemstrasystems.github.io/creating-saas-application/)
+See [Creating - SaaS Application](https://vanheemstrasystems.github.io/creating-saas-application/)
 
 ### a) Map out the **User Journey(s)**.
 
