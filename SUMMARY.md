@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Voronoi Treemap - Themes](README.md)
+* [Creating Application - Themes](README.md)
